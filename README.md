@@ -13,7 +13,3 @@
 
 * Website: https://SnehaSawant64.github.io
 * Github: [@SnehaSawant64](https://github.com/SnehaSawant64)
-* LinkedIn: [@SnehaSawant64](www.linkedin.com/in/sawantsneha)
-
-
-Copyright © 2020 [Sneha Sawant <scsawant1997@gmail.com>](https://github.com/SnehaSawant64).<br/>
