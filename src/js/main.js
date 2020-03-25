@@ -10,12 +10,14 @@ document.querySelector('body').innerHTML = html`
 `;
 
 document.querySelector('main').innerHTML = html`
-<div class="main__text">hybridY</div>
+<div class="main__text">Simple</div>
+<div class="main__text">but</div>
+<div class="main__text">Not</div>
+<div class="main__text">Ordinary</div>
 <div class="main__break-line"></div>
-<div class="main__text">& Code</div>
+<div class="main__text_small">Get ready to <b><i>turn</i></b> your <b><i>ideas</i></b> into <b><i>reality</i></b></div>
 `;
 
 document.querySelector('nav').innerHTML = html`
-<div>Menu</div>
 <i class="fa fa-bars" aria-hidden="true"></i>
 `;
