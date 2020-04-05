@@ -47,7 +47,6 @@
     "webpack-merge": "4.2.2"
   },
   "dependencies": {
-    "bootstrap": "^4.4.1",
     "clock-analog": "^1.0.4",
     "copyright-x": "^1.0.4",
     "html-template-tag": "^3.2.0",
