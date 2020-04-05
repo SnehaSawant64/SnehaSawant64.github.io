@@ -5,10 +5,10 @@
 
 > This is a personal web page, Made for **fun** just to **learn**
 
-### 🏠 [Homepage](https://snehasawant64.github.io )
+### 🏠 [Homepage](https://xsneha.github.io )
 
 ## Author
 👤 **Sneha Sawant <scsawant1997@gmail.com>**
 
-* Website: https://SnehaSawant64.github.io
-* Github: [@SnehaSawant64](https://github.com/SnehaSawant64)
+* Website: https://xsneha.github.io
+* Github: [@xsneha](https://github.com/xsneha)
