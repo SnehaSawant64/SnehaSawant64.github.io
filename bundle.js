@@ -10,8 +10,7 @@
 
 <!-- <div id="clock"></div> -->
 <footer>
-    <copyright-x><span slot="name">hybridY</span></copyright-x>
-</footer>
+  </footer>
 `,document.querySelector("main").innerHTML=i`
 <div class="main__text">Simple</div>
 <div class="main__text">but</div>

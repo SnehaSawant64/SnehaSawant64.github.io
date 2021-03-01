@@ -12,7 +12,6 @@ document.querySelector('body').innerHTML = html`
 
 <!-- <div id="clock"></div> -->
 <footer>
-    <copyright-x><span slot="name">XXX</span></copyright-x>
 </footer>
 `;
 

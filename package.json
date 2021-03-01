@@ -1,5 +1,5 @@
 {
-  "name": "SnehaSawant64.guthub.io",
+  "name": "XSneha.guthub.io",
   "version": "1.0.0",
   "description": "This is a personal web page",
   "main": "index.js",
@@ -47,7 +47,6 @@
     "webpack-merge": "4.2.2"
   },
   "dependencies": {
-    "copyright-x": "^1.0.4",
     "html-template-tag": "^3.2.0",
     "path": "^0.12.7"
   }
