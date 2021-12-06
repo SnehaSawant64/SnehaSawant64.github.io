@@ -11,11 +11,4 @@
 <!-- <div id="clock"></div> -->
 <footer>
   </footer>
-`,document.querySelector("main").innerHTML=i`
-<div class="main__text">Simple</div>
-<div class="main__text">but</div>
-<div class="main__text">Not</div>
-<div class="main__text">Ordinary</div>
-<div class="main__break-line"></div>
-<div class="main__text_small">Get ready to <b><i>turn</i></b> your <b><i>ideas</i></b> into <b><i>reality</i></b></div>
-`}]);
+`,document.querySelector("main").innerHTML=''}]);
